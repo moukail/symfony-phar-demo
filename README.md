@@ -1,3 +1,6 @@
+https://medium.com/@cyrilgeorgespereira/create-a-compiled-php-console-application-and-deploy-it-with-homebrew-93876a8540fb
+https://github.com/Huttopia/console-bundle
+https://phar.io/
 # Composer
 ```bash
 composer audit
